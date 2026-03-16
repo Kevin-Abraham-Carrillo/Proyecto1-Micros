@@ -116,5 +116,5 @@ avrdude -c arduino -p m328p -P COMx -b 57600 -U flash:w:main.hex
 ---
 
 ## Autor
-
+Kevin Abraham Carrillo Lopez - 231058
 Proyecto desarrollado como práctica de microcontroladores en Assembler puro para el ATmega328P.
