@@ -1,0 +1,171 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\Debug\Proyecto1-Reloj-Micros.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1-Reloj-Micros.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1-Reloj-Micros.map</FILE>
+  <FILE>Proyecto1-Reloj-Micros.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <digito1><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>53</LINE></digito1>
+  <digito2><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>54</LINE></digito2>
+  <digito3><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>55</LINE></digito3>
+  <digito4><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>56</LINE></digito4>
+  <segundos><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>59</LINE></segundos>
+  <minutos><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>60</LINE></minutos>
+  <horas><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>61</LINE></horas>
+  <dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>64</LINE></dia>
+  <mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>65</LINE></mes>
+  <modo><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>68</LINE></modo>
+  <campo><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>69</LINE></campo>
+  <blink><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>72</LINE></blink>
+  <tick_500><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>73</LINE></tick_500>
+  <last_pinb><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>76</LINE></last_pinb>
+  <debounce_timer><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>77</LINE></debounce_timer>
+  <boton_guardado><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>78</LINE></boton_guardado>
+  <alarm_h><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>81</LINE></alarm_h>
+  <alarm_m><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>82</LINE></alarm_m>
+  <alarm_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>83</LINE></alarm_d>
+  <alarm_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>84</LINE></alarm_mes>
+  <alarm_on><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>85</LINE></alarm_on>
+  <alarm_ring><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>86</LINE></alarm_ring>
+  <main><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>125</LINE></main>
+  <PCINT0_ISR><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>838</LINE></PCINT0_ISR>
+  <TIMER1_COMPA_ISR><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>590</LINE></TIMER1_COMPA_ISR>
+  <TABLA><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>107</LINE></TABLA>
+  <loop><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>236</LINE></loop>
+  <revisar_debounce><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>250</LINE></revisar_debounce>
+  <continuar_loop><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>267</LINE></continuar_loop>
+  <ejecutar_boton_guardado><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>538</LINE></ejecutar_boton_guardado>
+  <mostrar_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>341</LINE></mostrar_fecha>
+  <mostrar_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>290</LINE></mostrar_alarma>
+  <mostrar_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>324</LINE></mostrar_hora>
+  <mostrar_fecha_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>307</LINE></mostrar_fecha_alarma>
+  <separar_2dig><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>454</LINE></separar_2dig>
+  <continuar_display><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>360</LINE></continuar_display>
+  <cargar_tabla><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>466</LINE></cargar_tabla>
+  <aplicar_parpadeo><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>487</LINE></aplicar_parpadeo>
+  <aplicar_blink><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>476</LINE></aplicar_blink>
+  <delay_pequeno><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>520</LINE></delay_pequeno>
+  <sep10><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>456</LINE></sep10>
+  <finsep><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>462</LINE></finsep>
+  <no_dp><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>482</LINE></no_dp>
+  <cfg><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>496</LINE></cfg>
+  <finp><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>516</LINE></finp>
+  <izq><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>508</LINE></izq>
+  <apagar><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>514</LINE></apagar>
+  <d1><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>522</LINE></d1>
+  <d2><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>524</LINE></d2>
+  <no_apagar_ring><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>544</LINE></no_apagar_ring>
+  <apagar_alarma_ring><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1026</LINE></apagar_alarma_ring>
+  <ejecutar_mode><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>564</LINE></ejecutar_mode>
+  <ejecutar_next><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>568</LINE></ejecutar_next>
+  <ejecutar_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>572</LINE></ejecutar_up>
+  <ejecutar_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>576</LINE></ejecutar_down>
+  <ejecutar_ok><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>580</LINE></ejecutar_ok>
+  <accion_mode><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>931</LINE></accion_mode>
+  <accion_next><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>942</LINE></accion_next>
+  <accion_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1034</LINE></accion_up>
+  <accion_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1157</LINE></accion_down>
+  <accion_ok><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>987</LINE></accion_ok>
+  <continuar_tick><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>616</LINE></continuar_tick>
+  <solo_guardar_tick><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>671</LINE></solo_guardar_tick>
+  <guardar_seg><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>664</LINE></guardar_seg>
+  <guardar_min><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>660</LINE></guardar_min>
+  <guardar_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>656</LINE></guardar_hora>
+  <incrementar_dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>741</LINE></incrementar_dia>
+  <verificar_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>679</LINE></verificar_alarma>
+  <salir_timer><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>725</LINE></salir_timer>
+  <sonar_buzzer><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>721</LINE></sonar_buzzer>
+  <mes_28><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>760</LINE></mes_28>
+  <mes_30><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>764</LINE></mes_30>
+  <validar_dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>767</LINE></validar_dia>
+  <guardar_dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>785</LINE></guardar_dia>
+  <guardar_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>781</LINE></guardar_mes>
+  <obtener_limite_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>790</LINE></obtener_limite_mes>
+  <limite_28><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>804</LINE></limite_28>
+  <limite_30><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>807</LINE></limite_30>
+  <obtener_limite_mes_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>812</LINE></obtener_limite_mes_alarma>
+  <limite_28_a><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>826</LINE></limite_28_a>
+  <limite_30_a><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>829</LINE></limite_30_a>
+  <chk_next><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>865</LINE></chk_next>
+  <salir_pcint><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>912</LINE></salir_pcint>
+  <chk_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>877</LINE></chk_up>
+  <chk_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>889</LINE></chk_down>
+  <chk_ok><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>901</LINE></chk_ok>
+  <debounce_exit><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>922</LINE></debounce_exit>
+  <save_mode><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>937</LINE></save_mode>
+  <next_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>956</LINE></next_hora>
+  <next_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>966</LINE></next_fecha>
+  <next_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>976</LINE></next_alarma>
+  <save_field_h><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>962</LINE></save_field_h>
+  <save_field_f><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>972</LINE></save_field_f>
+  <save_field_a><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>982</LINE></save_field_a>
+  <ok_to_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1013</LINE></ok_to_hora>
+  <ok_to_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1008</LINE></ok_to_fecha>
+  <activar_alarma_directo><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1018</LINE></activar_alarma_directo>
+  <up_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1106</LINE></up_hora>
+  <siguiente_up1><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1044</LINE></siguiente_up1>
+  <up_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1130</LINE></up_fecha>
+  <siguiente_up2><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1049</LINE></siguiente_up2>
+  <up_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1052</LINE></up_alarma>
+  <up_alarm_h><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1064</LINE></up_alarm_h>
+  <up_alarm_m><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1074</LINE></up_alarm_m>
+  <up_alarm_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1084</LINE></up_alarm_d>
+  <up_alarm_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1096</LINE></up_alarm_mes>
+  <save_ah><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1070</LINE></save_ah>
+  <save_am><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1080</LINE></save_am>
+  <save_ad><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1092</LINE></save_ad>
+  <save_ames><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1102</LINE></save_ames>
+  <up_horas><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1120</LINE></up_horas>
+  <save_min_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1116</LINE></save_min_up>
+  <save_h_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1126</LINE></save_h_up>
+  <up_dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1144</LINE></up_dia>
+  <save_mes_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1140</LINE></save_mes_up>
+  <save_dia_up><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1152</LINE></save_dia_up>
+  <chk_down_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1164</LINE></chk_down_fecha>
+  <down_hora><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1238</LINE></down_hora>
+  <chk_down_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1169</LINE></chk_down_alarma>
+  <down_fecha><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1266</LINE></down_fecha>
+  <fin_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1174</LINE></fin_down>
+  <down_alarma><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1177</LINE></down_alarma>
+  <down_alarm_h><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1189</LINE></down_alarm_h>
+  <down_alarm_m><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1201</LINE></down_alarm_m>
+  <down_alarm_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1213</LINE></down_alarm_d>
+  <down_alarm_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1226</LINE></down_alarm_mes>
+  <dec_ah><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1195</LINE></dec_ah>
+  <save_ah_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1197</LINE></save_ah_d>
+  <dec_am><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1207</LINE></dec_am>
+  <save_am_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1209</LINE></save_am_d>
+  <dec_ad><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1220</LINE></dec_ad>
+  <save_ad_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1222</LINE></save_ad_d>
+  <dec_ames><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1232</LINE></dec_ames>
+  <save_ames_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1234</LINE></save_ames_d>
+  <down_horas><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1254</LINE></down_horas>
+  <dec_min><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1248</LINE></dec_min>
+  <save_min_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1250</LINE></save_min_down>
+  <dec_h><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1260</LINE></dec_h>
+  <save_h_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1262</LINE></save_h_down>
+  <down_dia><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1282</LINE></down_dia>
+  <dec_mes><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1276</LINE></dec_mes>
+  <save_mes_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1278</LINE></save_mes_down>
+  <dec_d><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1289</LINE></dec_d>
+  <save_dia_down><FILE>c:\users\kevin\Documents\Atmel Studio\7.0\Proyecto1-Reloj-Micros\Proyecto1-Reloj-Micros\main.asm</FILE><LINE>1291</LINE></save_dia_down>
+ </LABELS>
+</ASSEMBLER_INFO>
