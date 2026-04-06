@@ -115,6 +115,12 @@ avrdude -c arduino -p m328p -P COMx -b 57600 -U flash:w:main.hex
 
 ---
 
+## Link's 
+LINK DE YOU TUBE 
+https://youtu.be/0CyHcQxbMd4
+LINK DE GIT 
+https://github.com/Kevin-Abraham-Carrillo/Proyecto1-Micros 
+
 ## Autor
 Kevin Abraham Carrillo Lopez - 231058
 
